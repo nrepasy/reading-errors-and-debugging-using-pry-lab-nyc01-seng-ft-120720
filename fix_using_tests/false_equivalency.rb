@@ -10,7 +10,7 @@ end
     puts "2.) Eat a ham."
 end
 
-
+binding.pry
 def selection(num)
   if num == 2 
     p "YUM YUM MUNCH MUNCH MUNCH"
