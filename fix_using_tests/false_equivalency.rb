@@ -9,7 +9,7 @@ end
     puts "1.) Eat a hamburger."
     puts "2.) Eat a ham."
 end
-num = 2
+
 
 def selection(num)
   if num = 1 
@@ -18,7 +18,7 @@ def selection(num)
   p "HAM HAM HAM IN MY TUMMY" 
 end
 end
-
+selection (2)
 
 def runner
   prompt_user
